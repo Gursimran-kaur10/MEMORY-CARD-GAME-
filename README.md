@@ -1,7 +1,11 @@
 
 MEMORY CARD GAME :
 ===================
+RUN COMMANDS(IN CODESPACE) TO START GAME :
+1. chmod +x run.sh
+2. ./run.sh
 
+-------------------------
 This project is a text-based game where:
 1. Cards are placed face-down
 2. The player selects two card positions
