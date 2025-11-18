@@ -3,11 +3,11 @@ MEMORY CARD GAME :
 ===================
 
 This project is a text-based game where:
-Cards are placed face-down
-The player selects two card positions
-If both match, they remain revealed
-Otherwise, they hide again
-Game ends when all pairs are matched
+1. Cards are placed face-down
+2. The player selects two card positions
+3. If both match, they remain revealed
+4. Otherwise, they hide again
+5. Game ends when all pairs are matched
 
 ------------------------------------
 
