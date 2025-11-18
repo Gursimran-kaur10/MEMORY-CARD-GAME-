@@ -19,16 +19,16 @@ The program uses:
 -------------------------------------
 FEATURES :
 
-Random shuffled card layout
-Stack-based selection storage
-Simple and interactive text UI
-Supports up to 10 pairs
+✔ Random shuffled card layout
+✔ Stack-based selection storage
+✔ Simple and interactive text UI
+✔ Supports up to 10 pairs
 
 -------------------------------------
 Tracks:
-Total attempts
-Stack size
-Matched pairs
+✔ Total attempts
+✔ Stack size
+✔ Matched pairs
 
 -----------------------------------
 
