@@ -34,10 +34,10 @@ Tracks:
 
 Technologies Used:
 
-C++
-Stack Data Structure
-Arrays
-Randomization (rand, srand)
-GitHub Codespaces / Local Compiler
+1. C++
+2. Stack Data Structure
+3. Arrays
+4. Randomization (rand, srand)
+5. GitHub Codespaces / Local Compiler
 
 ------------------------------------
